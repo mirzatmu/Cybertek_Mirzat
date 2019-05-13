@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mirzat
- *
- */
-module Mirzat {
-}
